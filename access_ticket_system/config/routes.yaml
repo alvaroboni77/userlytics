@@ -5,3 +5,7 @@ assistant_register:
 assistant_success:
   path: /success
   controller: App\Controller\AssistantController::success
+
+assistant_category_full:
+  path: /category-full
+  controller: App\Controller\AssistantController::categoryFull
