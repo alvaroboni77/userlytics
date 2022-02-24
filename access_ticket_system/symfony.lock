@@ -1,6 +1,12 @@
 {
+    "bacon/bacon-qr-code": {
+        "version": "2.0.6"
+    },
     "composer/package-versions-deprecated": {
         "version": "1.11.99.5"
+    },
+    "dasprid/enum": {
+        "version": "1.0.3"
     },
     "doctrine/annotations": {
         "version": "1.13",
@@ -80,6 +86,9 @@
     "doctrine/sql-formatter": {
         "version": "1.1.2"
     },
+    "endroid/qr-code": {
+        "version": "4.3.5"
+    },
     "friendsofphp/proxy-manager-lts": {
         "version": "v1.0.5"
     },
@@ -94,6 +103,9 @@
     },
     "nikic/php-parser": {
         "version": "v4.13.2"
+    },
+    "phpmailer/phpmailer": {
+        "version": "v6.5.4"
     },
     "psr/cache": {
         "version": "1.0.1"
